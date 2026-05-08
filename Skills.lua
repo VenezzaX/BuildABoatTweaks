@@ -475,7 +475,7 @@ TitleLbl.Size = UDim2.new(1,-110,1,0); TitleLbl.Position = UDim2.new(0,68,0,0)
 TitleLbl.BackgroundTransparency = 1; TitleLbl.Font = Enum.Font.GothamBold
 TitleLbl.TextSize = 13; TitleLbl.TextXAlignment = Enum.TextXAlignment.Left
 TitleLbl.TextColor3 = T.TextPrimary; TitleLbl.RichText = true
-TitleLbl.Text = 'BABFT Hub  <font color="#3a3a46">//</font>  <font color="#FFA03C">HeavenlyReminiscence</font>  <font color="#3a3a46">v15</font>'
+TitleLbl.Text = 'BABFT Hub  <font color="#3a3a46">//</font>  <font color="#FFA03C">xzyp | .gg/xe-no</font>  <font color="#3a3a46">v15</font>'
 
 local function MakeWinBtn(xOff, icon, hoverClr)
     local b = Instance.new("TextButton", Topbar)
